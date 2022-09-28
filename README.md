@@ -2,7 +2,7 @@
 #### Инструкция к запуску
 1. Установить Python - https://www.youtube.com/watch?v=LKVVtVVkj7Q
 2. Устанавливаем Git - https://git-scm.com/download/win
-3. открываем консоль нажав win + r и прописал cmd
+3. открываем консоль нажав win + r и прописав cmd
 4. Установить библиотеку vk_api командой:
 > pip install vk_api
 5. Переходим в нужную вам директорию командой
